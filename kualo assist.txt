@@ -1,0 +1,14 @@
+You have to open webmail -> Roundcube -> Manage folders: https://screens.kgix.net/jc/chrome_aokwokABrY.png
+
+Create -> enter folder name "Bounces" -> Save:
+https://screens.kgix.net/jc/chrome_BYWZPQ8JhZ.png
+
+Go back to webmail home:
+https://screens.kgix.net/jc/chrome_IouAxvqk80.png
+
+Email Filters -> Create a new filter:
+https://screens.kgix.net/jc/chrome_0WrGM459Zd.png
+
+And finally set up the filter itself:
+https://screens.kgix.net/jc/chrome_4ywgaULIsM.png
+
